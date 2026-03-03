@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a front-end web developer focused on building clean, responsive interfaces while continuously learning and exploring emerging technologies.
+I am a front-end web developer and a student.
+I am focused on building clean, responsive interfaces while continuously learning and exploring emerging technologies.
 
 
 ## 🌐 Socials:
